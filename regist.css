@@ -1,0 +1,33 @@
+body{
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(#4E8AE5,#7CCADA) no-repeat fixed;
+}
+.registration {
+  float: right;
+  border: 5px
+}
+h1 {
+  text-align: center;
+  padding: 25px
+  border: 15px
+}
+.regform{
+  margin-top: 60px;
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: white;
+}
+.subform {
+  margin-left: 50%
+}
+.block{
+/* background: linear-gradient(#4E8AE5,#7CCADA) no-repeat; */
+}
+.cntrl{
+  margin-left: 10%;
+  margin-right: 10%;
+}
+#subutton {
+  margin-bottom: 15px;
+  margin-left: 45%;
+}
